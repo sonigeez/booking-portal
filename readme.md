@@ -1,4 +1,4 @@
-# Booking app
+# Booking app(College Project)
 ## How to configure
 - deploy backend
 - integration with frontend
